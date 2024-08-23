@@ -24,8 +24,8 @@ Follow these steps to set up and run the project locally:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/AbdurrahmanSyafiq/Test-case-Next-auth.git
+   cd Test-case-Next-auth
 
 2. **Install Dependencies**
 
